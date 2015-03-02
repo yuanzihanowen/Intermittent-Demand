@@ -1,5 +1,9 @@
 Intermittent-Demand
 ===================
+These are some of the modules for algorithms that could be used for forecasting.
+
+I forked the despository here for references purposes.
+
 These are codes which need to be repeatedly used in my research project. Different scripts perform different functions. 
 
 
